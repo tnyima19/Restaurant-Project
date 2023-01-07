@@ -7,13 +7,19 @@ img{
 }
 h2{
     text-align: center;
+    color:aliceblue
 }
 h3{
     margin-top: 3%;
     text-align: center;
+    color: aliceblue;
 
 }
 p{
     text-align: center;
+    color: aliceblue;
 
+}
+body{
+    background-color: #850000 ;
 }
