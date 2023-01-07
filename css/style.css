@@ -23,3 +23,7 @@ p{
 body{
     background-color: #850000 ;
 }
+
+.row{
+    padding: 5%;
+}
