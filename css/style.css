@@ -27,3 +27,17 @@ body{
 .row{
     padding: 5%;
 }
+
+.header{
+    background-color: #FFC93C;
+    margin-left: auto;
+    margin-right: auto;
+}
+.topbar{
+    background-color:#FFC93C ;
+}
+.restaurant-name {
+    color: #850000;
+    font-size: 3rem;
+    text-align: center;
+}
